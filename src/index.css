@@ -29,8 +29,6 @@ body {
   padding-bottom: 10px;
 }
 
-.timer-title {
-  font-size: 24px;
-  margin-bottom: auto;
-  padding-top: 10px;
+.display{
+  font-size: 100px;
 }
